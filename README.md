@@ -1,6 +1,6 @@
 # Autonomous Trekking Robot
 
-Project developed to participate in the Winter Challenge 10 Edition, Robocore, São Paulo, Brazil. This project was submited to the Trekking Pro category.
+Project developed to participate in the Winter Challenge 10 Edition, Robocore, São Paulo, Brazil. This project was submitted to the Trekking Pro category.
 
 ## Robo Trekking Pro challenge
 
@@ -10,28 +10,28 @@ General rules:
 * Max dimensions: 500x500x500mm
 * The robot must be completely autonomous
 
-The robot must be completely autonomous, terrestrial and with all the components on board. The robot cannot be controlled externally by wire, radio or any other communication device. The robot must have a light device to indicate the arrival at the landmarks.
+The robot must be completely autonomous, terrestrial, and with all the components on board. The robot cannot be controlled externally by wire, radio, or any other communication device. The robot must have a light device to indicate the arrival at the landmarks.
 
-During the match, the robot must departure from the origin point, and autonomously find the three landmarks.  The landmarks are indetified by traffic cones, as presented in the image below.
+During the match, the robot must depart from the origin point, and autonomously find the three landmarks.  The landmarks are identified by traffic cones, as presented in the image below.
 
 ![Cone](imgs/cone.jpg)
 
-The cones will be distributed in a grass field, positioned accordingly the image below. The robot will departure from Point I, then move towards point 1, point 2 and point 3, in this order. The robot must touch the white board and notify that the point was found emitting a ligth signal.
+The cones will be distributed in a grass field, positioned accordingly in the image below. The robot will depart from Point I, then move towards point 1, point 2, and point 3, in this order. The robot must touch the whiteboard and notify that the point was found emitting a light signal.
 
 ![Grass Field](imgs/grass-field.jpg)
 
 ## The proposed ROBOA project
 
-The ROBOA project was only posssible due to the sponsorship of the Catholic University Center, Jaragua do Sul, SC, Brazil. The project authors were: João Pedro Schmitt, Joe Vogel and Mafred Heil Junior, members of the WickedBotz robotic group. The image below depicts the proposed robot.
+The ROBOA project was only possible due to the sponsorship of the Catholic University Center, Jaragua do Sul, SC, Brazil. The project authors were: João Pedro Schmitt, Joe Vogel, and Manfred Heil Junior, members of the WickedBotz robotic group. The image below depicts the proposed robot.
 
 ![ROBOA](imgs/robot-isometric-view.jpg)
 
-The robot was equiped with the following items:
+The robot was equipped with the following items:
 * Arduino Mega
 * GPS MG2639
-* Ultrassonic Sensor HC-SR04
+* Ultrasonic Sensor HC-SR04
 * Compass HMC6352
-* Ligth
+* Light
 * Electric motors
 
 The  winner robot source code is available in [this file](WinnerCode/Teste2.ino)
