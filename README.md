@@ -39,7 +39,7 @@ The  winner robot source code is available in [this file](WinnerCode/Teste2.ino)
 A video demonstrating tests made with the robot before the challenge is available at YouTube in the link below.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=64tZTSIC8jI" target="_blank"><img src="https://img.youtube.com/vi/64tZTSIC8jI/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Gi7DCCx9dpg" target="_blank"><img src="https://img.youtube.com/vi/Gi7DCCx9dpg/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Challange final classification
 
