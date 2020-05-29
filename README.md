@@ -59,3 +59,9 @@ The proposed robot won the championship in the first position. The ranking is pr
 [PROINPES](http://www.catolicasc.org.br/jaragua-do-sul/wp-content/uploads/sites/3/2015/04/5385129631411388664.pdf)
 
 [Winter Challenge 10ª Edição](https://www.robocore.net/eventos/wcx/2)
+
+[YouTube Project](https://www.youtube.com/watch?v=Gi7DCCx9dpg)
+
+[GitHub Project](https://github.com/schmittjoaopedro/Arduino-TrekkingRobot)
+
+[Católica PROINPES](http://www.catolicasc.org.br/jaragua-do-sul/wp-content/uploads/sites/3/2015/04/ANAIS_XV-CONGRESSO-INICIA%C3%87%C3%83O-CIENT%C3%8DFICA_JARAGU%C3%81-DO-SUL.pdf)
